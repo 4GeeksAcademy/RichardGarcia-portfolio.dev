@@ -18,12 +18,13 @@
     "typescript": "^5.4.5"
   },
   "devDependencies": {
-    "@astrojs/tailwind": "^5.1.0",
-    "@astrojs/vercel": "^7.8.1",
-    "autoprefixer": "^10.4.20",
-    "postcss": "^8.4.45",
-    "tailwindcss": "^3.4.11"
-  },
+  "@astrojs/tailwind": "^5.1.0",
+  "@astrojs/vercel": "^7.8.1",
+  "autoprefixer": "^10.4.20",
+  "postcss": "^8.4.45",
+  "tailwindcss": "^3.4.11",
+  "typescript": "^5.4.5"
+},
   "engines": {
     "node": "16.x"
   }
