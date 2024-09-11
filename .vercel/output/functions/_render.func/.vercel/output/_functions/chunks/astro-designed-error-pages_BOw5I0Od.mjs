@@ -8,7 +8,7 @@ const ACTION_QUERY_PARAMS = {
   actionRedirect: "_astroActionRedirect"
 };
 
-const __vite_import_meta_env__ = {"ASSETS_PREFIX": undefined, "BASE_URL": "/portfolio.dev", "DEV": false, "MODE": "production", "PROD": true, "SITE": "https://richardgarciaordaz.github.io", "SSR": true};
+const __vite_import_meta_env__ = {"ASSETS_PREFIX": undefined, "BASE_URL": "/portfolio.dev", "DEV": false, "MODE": "production", "PROD": true, "SITE": "https://CeciliaBPerdomo.github.io", "SSR": true};
 const codeToStatusMap = {
   // Implemented from tRPC error code table
   // https://trpc.io/docs/server/error-handling#error-codes

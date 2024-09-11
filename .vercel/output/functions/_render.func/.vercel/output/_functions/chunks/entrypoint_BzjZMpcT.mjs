@@ -3,7 +3,7 @@ import { A as AstroError, q as i18nNoLocaleFoundInPath, s as appendForwardSlash,
 import { serialize, parse } from 'cookie';
 import { bold, red, yellow, dim, blue } from 'kleur/colors';
 import 'es-module-lexer';
-import { g as getActionQueryString, d as deserializeActionResult, e as ensure404Route, a as default404Instance, D as DEFAULT_404_ROUTE } from './astro-designed-error-pages_DW1GbkWd.mjs';
+import { g as getActionQueryString, d as deserializeActionResult, e as ensure404Route, a as default404Instance, D as DEFAULT_404_ROUTE } from './astro-designed-error-pages_BOw5I0Od.mjs';
 import 'clsx';
 import 'fast-glob';
 import nodePath from 'node:path';
