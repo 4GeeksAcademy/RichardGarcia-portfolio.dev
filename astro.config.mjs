@@ -23,8 +23,8 @@ import vercel from '@astrojs/vercel/serverless'
 
 export default defineConfig({
   integrations: [tailwind()],
-  // output: 'server',
-  // adapter: vercel(),
-  // site: 'https://CeciliaBPerdomo.github.io',
-  // base: 'portfolio.dev'
+  output: 'server',
+  adapter: vercel(),
+  site: 'https://CeciliaBPerdomo.github.io',
+  base: ''
 });
