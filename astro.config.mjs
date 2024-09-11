@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import vercel from '@astrojs/vercel/serverless'
 
-// Configuración de Astro
+// Configuración de Astro.
 export default defineConfig({
   // Integración de Tailwind
   integrations: [tailwind()],
