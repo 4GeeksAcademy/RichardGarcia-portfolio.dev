@@ -25,6 +25,6 @@ export default defineConfig({
   integrations: [tailwind()],
   output: 'server',
   adapter: vercel(),
-  site: 'https://CeciliaBPerdomo.github.io',
+ // site: 'https://CeciliaBPerdomo.github.io',
   base: ''
 });
