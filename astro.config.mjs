@@ -26,5 +26,5 @@ export default defineConfig({
   output: 'server',
   adapter: vercel(),
  // site: 'https://CeciliaBPerdomo.github.io',
-  base: ''
+  base: '/'
 });
